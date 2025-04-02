@@ -1,0 +1,33 @@
+<HTML>
+<Head>
+<title>adding list
+</title>
+</head>
+<h1> Introduction</h1>
+<h2><u>About</U></h2>
+<p1><font size="22"> I </font> Ankith and i am student of bca 4th sem i am here to learn HTML   </p1>
+<h3><b><i>Abalities</i></B> </h3>
+<ul>
+<li>Typing </li>
+<li>reading</li>
+<li>playing </li>
+<li>learning </li>
+</ul>
+<ol>
+<li>Typing </li>
+<li>reading</li>
+<li>playing </li>
+<li>learning </li>
+</ol>
+<h2> DETAILS</h2>
+<p1> Address= xxxxxxx<br>
+cont.=XXXXXXXX</p1>
+<img scr="mclaren.jpg">
+
+
+
+<body bgcolor="red">
+hello world
+<br>
+</Body>
+</HTML>
